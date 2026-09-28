@@ -1,7 +1,10 @@
 # AUR merge request — draft, not submitted
 
-Submit only after https://aur.archlinux.org/packages/pen-dev-appimage is published
-and its install has been verified.
+Replacement published: https://aur.archlinux.org/packages/pen-dev-appimage
+
+Version 1.2.14-1 is live under maintainer `mathix`. Both architecture builds
+passed locally and in GitHub Actions. Desktop UI launch has not been tested.
+The merge request has not been submitted.
 
 - Request page: https://aur.archlinux.org/pkgbase/pencil-dev-appimage/request
 - Type: merge
